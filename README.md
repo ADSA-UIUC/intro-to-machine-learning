@@ -1,4 +1,4 @@
-# ADSA Fall 2017 Workshop: Python Series: Introduction to Machine Learning
+# ADSA Fall 2017 Workshop: Python Series - Introduction to Machine Learning
 Intro to Machine Learning using Jupyter/IPython notebook for the Association of Data Science and Analytics at UIUC.
 
 ## Please sign in using the following link: 
